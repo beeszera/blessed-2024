@@ -2,6 +2,9 @@
   * ES6
   * Framework JavaScript
    ^ Angular
+   ^ Vue
    ^ React
 - PHP Frameworks
    ^ Laravel
+- Fundamental Data Structure (Struktur Data Dasar)
+- Python
