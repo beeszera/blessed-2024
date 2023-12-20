@@ -1,3 +1,4 @@
-- Javascript
-
+- JavaScript
+  * ES6
+  * Framework JavaScript
 - PHP Frameworks
